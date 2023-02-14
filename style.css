@@ -1,0 +1,26 @@
+.theTitle{
+    font-size: 45px;
+    color: crimson;
+}
+.authoring{
+    color: rgb(177, 9, 40);
+}
+/* p{
+    background-color: aquamarine;
+} */
+
+.blog{
+    background-color: rgba(127, 255, 212, 0.171);
+    border: 5px solid black;
+    margin: 30px 10px;
+    padding: 20px;
+}
+
+.blog-title{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.blog-paragraph{
+    text-align: justify;
+}
